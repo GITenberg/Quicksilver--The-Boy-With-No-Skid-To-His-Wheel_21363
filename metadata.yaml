@@ -1,0 +1,46 @@
+_repo: Quicksilver--The-Boy-With-No-Skid-To-His-Wheel_21363
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Dadd, Frank
+    alias: Dadd, F.
+    birthdate: 1851
+    deathdate: 1929
+    gutenberg_agent_id: '9883'
+    url: http://www.gutenberg.org/2009/agents/9883
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fenn, George Manville
+    aliases:
+    - Fenn, G. Manville (George Manville)
+    - Fenn, G. M. (George Manville)
+    birthdate: 1831
+    deathdate: 1909
+    gutenberg_agent_id: '3840'
+    url: http://www.gutenberg.org/2009/agents/3840
+    wikipedia: http://en.wikipedia.org/wiki/George_Manville_Fenn
+description: ''
+gutenberg_issued: '2007-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21363'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tramps -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Missing children -- Juvenile fiction'
+- !lcsh 'Inheritance and succession -- Juvenile fiction'
+- !lcsh 'Physicians -- Juvenile fiction'
+- !lcsh 'Orphans -- Juvenile fiction'
+- !lcsh 'Sick -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Friendship -- Juvenile fiction'
+title: 'Quicksilver: The Boy With No Skid to His Wheel'
+url: http://www.gutenberg.org/ebooks/21363
